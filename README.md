@@ -1,6 +1,6 @@
 # handshakejserrors
 
-<img src="https://raw.githubusercontent.com/handshakejs/handshakejserrors/master/handshakejserrors.gif" alt="handshakejserrors" align="right" width="190" />
+<img src="https://raw.githubusercontent.com/handshakejs/handshakejserrors/master/handshakejserrors.gif" alt="handshakejserrors" align="right" width="220" />
 
 Logic for handling various handshakejs errors.
 
