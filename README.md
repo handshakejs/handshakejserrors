@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/handshakejs/handshakejserrors/master/handshakejserrors.gif" alt="handshakejserrors" align="right" width="190" />
 
+[![BuildStatus](https://travis-ci.org/handshakejs/handshakejserrors.png?branch=master)](https://travis-ci.org/handshakejs/handshakejserrors)
+
 Logic for handling various handshakejs errors.
 
 This library is part of the larger [Handshake.js ecosystem](https://github.com/handshakejs).
