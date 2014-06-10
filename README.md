@@ -4,7 +4,7 @@
 
 [![BuildStatus](https://travis-ci.org/handshakejs/handshakejserrors.png?branch=master)](https://travis-ci.org/handshakejs/handshakejserrors)
 
-Logic for handling various handshakejs errors.
+Handshakejs error handling. Re-use in various handshakejs minor libraries.
 
 This library is part of the larger [Handshake.js ecosystem](https://github.com/handshakejs).
 
